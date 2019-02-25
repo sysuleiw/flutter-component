@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FlutterComponentSDK"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "Flutter组件化Demo."
 
   # This description is used to generate tags and improve search results.
